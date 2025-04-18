@@ -1,4 +1,30 @@
-## Hi there 👋
+[![MasterHead](https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif)]()
+
+
+##  OPA, AQUI QUEM FALA É O MURILO É NÉ😁
+
+
+
+  <ul>
+    <li>  Atualmente tenho 16 anos
+     Sou estudante do Ensino Médio
+     Faço ADM
+     Formado em Informatíca 
+     Estudava Curso inglês
+    </li>
+   
+  </ul>
+ 
+  
+
+<h1><br>📊GitHub Stack<br></h1>
+    <a href-"https://github.com/drezinnxs10">
+   <img src="https://github-readme-stats.vercel.app/api?username=murryscrass&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murryscrass&layout=compact&theme=tokyonight" alt="Linguagens de Programação" />
+
+
+
+
 
 <!--
 **murryscrass/murryscrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
