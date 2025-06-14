@@ -1,16 +1,16 @@
 [![MasterHead](https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif)]()
 
 
-##  OPA, AQUI QUEM FALA É O MURILO É NÉ😁
+##  OLÁ, AQUI QUEM FALA É O MURILO 😁
 
 
 
   <ul>
     <li>  Atualmente tenho 16 anos
      Sou estudante do Ensino Médio
-     Faço ADM
+     Estou atualmente cursando assistente administrativo
      Formado em Informatíca 
-     Estudava Curso inglês
+     Formado em Inglês básico
     </li>
    
   </ul>
