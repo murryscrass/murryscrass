@@ -7,7 +7,7 @@
 
   <ul>
     <li>  Atualmente tenho 16 anos
-     Sou estudante do Ensino Médio
+    <p>Sou estudante do Ensino Médio</p> 
      Estou atualmente cursando assistente administrativo
      Formado em Informatíca 
      Formado em Inglês básico
